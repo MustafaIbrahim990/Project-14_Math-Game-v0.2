@@ -1,0 +1,14 @@
+C:\Users\abdul\source\repos\Simple Math Game\bin\Debug\Simple Math Game.exe.config
+C:\Users\abdul\source\repos\Simple Math Game\bin\Debug\Simple Math Game.exe
+C:\Users\abdul\source\repos\Simple Math Game\bin\Debug\Simple Math Game.pdb
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple_Math_Game.frmMathGamePlayMenu.resources
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple_Math_Game.Properties.Resources.resources
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.exe
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple Math Game.pdb
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple_Math_Game.frmMathGameInfoMenu.resources
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple_Math_Game.frmMathGameStarterMenu.resources
+C:\Users\abdul\source\repos\Simple Math Game\obj\Debug\Simple_Math_Game.frmMathGameShowFinalResults.resources
