@@ -1,5 +1,3 @@
-"# Project-14 _ Math Game-v0.2" 
-
 # 🧠 Project-14: Math Game v0.2
 
 ## 📌 Overview
